@@ -1,0 +1,28 @@
+20210606232654-Balance:
+   BTC 0.00000007
+   ADA 1.38813464
+   ETH 0.00000000
+   EUR 55.00709900
+20210606232654-P&L:
+   P&L= 0
+20210606232655-Orders:
+[]
+[]
+[]
+20210606232656-Trades:
+   ordernumber:1
+      symbol:ADAEUR
+      id:8870405
+      orderid:106917863
+      price:1.42070000
+      qty:227.61000000
+      isBuyer:True
+       ---
+   ordernumber:2
+      symbol:ADAEUR
+      id:8870406
+      orderid:106917863
+      price:1.42070000
+      qty:32.82000000
+      isBuyer:True
+       ---

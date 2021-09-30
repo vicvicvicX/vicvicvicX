@@ -1,0 +1,113 @@
+20210608215256-Balance:
+   BTC 0.00000007
+   ADA 1.49918540
+   ETH 0.00000000
+   EUR 55.00709900
+20210608215256-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215257-Orders:
+[]
+[]
+[]
+20210608215258-Trades:
+   ordernumber:1
+      symbol:ADAEUR
+      id:8870405
+      orderid:106917863
+      price:1.42070000
+      qty:227.61000000
+      isBuyer:True
+       ---
+   ordernumber:2
+      symbol:ADAEUR
+      id:8870406
+      orderid:106917863
+      price:1.42070000
+      qty:32.82000000
+      isBuyer:True
+       ---
+20210608215300-*********
+***** ADAEUR *******
+iteracion:1
+Actual MA50 1.24
+Actual Price 1.27
+Price to Buy 1.23
+tendencia alcista True
+20210608215300-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215300-*********
+TENDENCIA ALCISTA
+20210608215312-*********
+***** ADAEUR *******
+iteracion:2
+Actual MA50 1.24
+Actual Price 1.27
+Price to Buy 1.23
+tendencia alcista True
+20210608215312-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215312-*********
+TENDENCIA ALCISTA
+20210608215323-*********
+***** ADAEUR *******
+iteracion:3
+Actual MA50 1.24
+Actual Price 1.27
+Price to Buy 1.23
+tendencia alcista True
+20210608215323-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215323-*********
+TENDENCIA ALCISTA
+20210608215335-*********
+***** ADAEUR *******
+iteracion:4
+Actual MA50 1.24
+Actual Price 1.27
+Price to Buy 1.23
+tendencia alcista True
+20210608215335-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215335-*********
+TENDENCIA ALCISTA
+20210608215347-*********
+***** ADAEUR *******
+iteracion:5
+Actual MA50 1.24
+Actual Price 1.28
+Price to Buy 1.23
+tendencia alcista True
+20210608215347-P&L:
+   P&L= 0
+   compras= 0
+   ventas= 0
+   aciertos= 0
+   fallos= 0
+   hitmiss= N.A.
+20210608215347-*********
+TENDENCIA ALCISTA
