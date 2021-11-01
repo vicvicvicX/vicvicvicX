@@ -1,3 +1,0 @@
-API_KEY = '2y3AAjgfHilNs5Yx8F39YTqcAncUiXD2eAgkczpTNLfABAWk5xh9aYXBsoYd1dcH'
-API_SECRET = 's76DSxR5NAzIAuCeGSd2Ak5V9yVkipvdYAXrdUXrdIfl0ysTCyoKQhnNCnUrsH1o'
-GP = 'trope121'
